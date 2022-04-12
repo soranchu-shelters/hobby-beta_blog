@@ -1,4 +1,6 @@
 ---
+import styles from '../styles/global.css';
+
 export type Props = {
     title: string
     description: string
@@ -53,6 +55,3 @@ const { title = 'Astro - Note', description, permalink, image } = Astro.props
 {image &&
     <meta property="twitter:image" content={image} />
 }
-
-<!-- Link to the global style, or the file that imports TailwindCSS constructs -->
-<link rel="stylesheet" href="/style/global.css">
