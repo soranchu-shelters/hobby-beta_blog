@@ -9,7 +9,6 @@
     "format": "prettier --write \"**/*.{js,jsx,json,ts,tsx,md,mdx,css,html,yml,yaml,scss,sass}\" --ignore-path .gitignore"
   },
   "dependencies": {
-    "@nekohack/normalize.css": "2.6.0",
     "svelte": "3.47.0"
   },
   "devDependencies": {
