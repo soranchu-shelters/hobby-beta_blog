@@ -1,14 +1,7 @@
-export default {
-  projectRoot: '.',
-  dist: './dist',
-  public: './public',
-  renderers: ['@astrojs/renderer-svelte'],
-  buildOptions: {
-    site: 'https://soranchu.ninja',
-    sitemap: true,
-  },
-  devOptions: {
-    port: 3000,
-    tailwindConfig: './tailwind.config.js',
-  },
-}
+import { defineConfig } from 'astro/config'
+import svelte from '@astrojs/svelte'
+
+// https://astro.build/config
+export default defineConfig({
+	integrations: [svelte()],
+})

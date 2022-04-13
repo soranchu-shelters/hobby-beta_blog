@@ -1,5 +1,5 @@
 ---
-import styles from '../styles/global.css';
+import '../styles/main.css';
 
 export type Props = {
     title: string
@@ -7,11 +7,11 @@ export type Props = {
     permalink: string
     image: string
 }
-
-const { title = 'Astro - Note', description, permalink, image } = Astro.props
+const { title = 'soranchu.ninja | instagram', description, permalink, image } = Astro.props;
 ---
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
 <title>{title}</title>
 <meta name="title" content={title}/>
@@ -55,3 +55,7 @@ const { title = 'Astro - Note', description, permalink, image } = Astro.props
 {image &&
     <meta property="twitter:image" content={image} />
 }
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans:wght@400;700&display=swap" />

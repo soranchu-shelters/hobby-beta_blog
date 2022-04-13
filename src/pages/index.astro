@@ -1,17 +1,67 @@
 ---
-import Markdown from 'astro/components';
-import Page from '../layouts/page.astro';
-import BlogPreviewList from '../components/BlogPreviewList.astro'
+import BaseHead from '../components/BaseHead.astro';
+import BlogHeader from '../components/BlogHeader.astro';
+import BlogPostPreview from '../components/BlogPostPreview.astro';
 
-let title = 'Blog';
-let description = 'All the articles posted so far...';
+let title = 'soranchu.ninja | instagram';
+let description = 'The perfect product for your aviation blog.';
+let permalink = 'https://soranchu.ninja/';
 
-const posts = Astro.fetchContent('./posts/*.md');
+let allPosts = await Astro.glob('./posts/*.md');
+allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf() - new Date(a.frontmatter.publishDate).valueOf());
 ---
 
-<Page content={{ title, description }}>
-    <Markdown>
-        This is bunch of articles we've posted and linked so far about the island architecture, SPA fatigue and Astro.
-    </Markdown>
-    <BlogPreviewList posts={posts} />
-</Page>
+<html lang="en">
+  <head>
+    <BaseHead {title} {description} {permalink} />
+
+    <style>
+      header {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .content {
+        margin-top: 4rem;
+        margin-bottom: 8rem;
+      }
+
+      .content :global(main > * + *) {
+        margin-top: 1rem;
+      }
+
+      .intro {
+        padding-bottom: 4rem;
+        margin-bottom: 2rem;
+        border-bottom: 4px solid var(--theme-divider);
+      }
+
+      .intro > * {
+        margin: 0;
+      }
+
+      .latest {
+        font-size: 2.5rem;
+        font-weight: 700;
+      }
+    </style>
+  </head>
+
+  <body>
+    <BlogHeader />
+    <div class="wrapper">
+      <main class="content">
+        <section class="intro">
+          <h1 class="latest">{title}</h1>
+          <p>{description}</p>
+        </section>
+        <section aria-label="Blog post list">
+          {allPosts.map((p) => <BlogPostPreview post={p} />)}
+        </section>
+      </main>
+    </div>
+  </body>
+</html>

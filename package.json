@@ -8,16 +8,14 @@
     "build": "astro build",
     "format": "prettier --write \"**/*.{js,jsx,json,ts,tsx,md,mdx,css,html,yml,yaml,scss,sass}\" --ignore-path .gitignore"
   },
+  "dependencies": {
+    "@nekohack/normalize.css": "2.6.0",
+    "svelte": "3.47.0"
+  },
   "devDependencies": {
-    "@snowpack/plugin-typescript": "1.2.1",
-    "@tailwindcss/aspect-ratio": "0.2.1",
-    "@tailwindcss/forms": "0.3.3",
-    "@tailwindcss/line-clamp": "0.2.1",
-    "@tailwindcss/typography": "0.4.1",
-    "astro": "0.19.0-next.3",
+    "@astrojs/svelte": "0.1.1",
+    "astro": "1.0.0-beta.9",
     "prettier": "2.6.2",
-    "svelte-preprocess": "4.7.4",
-    "tailwindcss": "2.1.4",
-    "typescript": "4.3.5"
+    "prettier-plugin-astro": "0.0.12"
   }
 }

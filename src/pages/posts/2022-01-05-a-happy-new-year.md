@@ -1,5 +1,7 @@
 ---
-layout: ../../layouts/post.astro
+setup: |
+  import Layout from '../../layouts/BlogPost.astro'
+  import Cool from '../../components/Author.astro'
 author: jiyuujin
 authorTwitter: jiyuujinlab
 category: aviation
