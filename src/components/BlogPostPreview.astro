@@ -1,6 +1,17 @@
 ---
 export interface Props {
-  post: any
+  post: {
+    frontmatter: {
+      author: string;
+      authorTwitter: string;
+      category: string;
+      title: string;
+      type: string;
+      date: string;
+      tags: string[];
+      image: string;
+    }
+  }
 }
 
 const { post } = Astro.props
@@ -8,14 +19,32 @@ const { post } = Astro.props
 
 <article class="post-preview">
   <header>
-    <p class="publish-date">{post.frontmatter.publishDate}</p>
     <a href={post.url}><h1 class="title">{post.frontmatter.title}</h1></a>
+    {post.frontmatter.image && (
+      <img width="720" height="420" class="hero-image" loading="lazy" src={post.frontmatter.image} alt={post.frontmatter.title} />
+    )}
   </header>
-  <p>{post.frontmatter.description}</p>
   <a href={post.url}>Read More</a>
 </article>
 
 <style>
+  .hero-image {
+    width: 100vw;
+    object-fit: cover;
+    object-position: center;
+    margin-top: 2rem;
+    margin-bottom: 0;
+    max-width: 1280px;
+  }
+
+  @media (max-width: 50em) {
+    .hero-image {
+      height: 260px;
+      margin-top: 0;
+      margin-bottom: 2rem;
+    }
+  }
+
   .content :global(main > * + *) {
     margin-top: 1rem;
   }
@@ -27,18 +56,21 @@ const { post } = Astro.props
   }
 
   header {
-    align-items: flex-start;
     display: flex;
     flex-direction: column;
+    text-align: center;
+    align-items: center;
     justify-content: center;
     padding-bottom: 2rem;
-    text-align: left;
+    margin-bottom: 2rem;
+    border-bottom: 4px solid var(--theme-divider);
   }
 
   .title,
   .author,
   .publish-date {
     margin: 0;
+    width: 100%;
   }
 
   .publish-date,
