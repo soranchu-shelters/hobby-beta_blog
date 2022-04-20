@@ -9,15 +9,14 @@ export interface Props {
   alt: string;
 }
 
-const { title, author, publishDate, heroImage, alt } = Astro.props;
+const { title, author, image, alt } = Astro.props
 ---
 
 <div class="layout">
   <article class="content">
     <div>
       <header>
-        {heroImage && <img width="720" height="420" class="hero-image" loading="lazy" src={heroImage} alt={alt} />}
-        <p class="publish-date">{publishDate}</p>
+        {image && <img width="720" height="420" class="hero-image" loading="lazy" src={image} alt={alt} />}
         <h1 class="title">{title}</h1>
         <Author name="@jiyuujin" href="https://twitter.com/jiyuujinlab" />
       </header>
@@ -73,6 +72,7 @@ const { title, author, publishDate, heroImage, alt } = Astro.props;
   .author,
   .publish-date {
     margin: 0;
+    width: 100%;
   }
 
   .title {
