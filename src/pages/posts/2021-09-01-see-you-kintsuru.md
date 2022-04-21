@@ -13,7 +13,7 @@ tags:
   - AirbusA350XWB
   - Airbus
   - JAL
-image: https://i.imgur.com/I7oKsba.jpg
+image: https://i.imgur.com/G2QWe8b.jpg
 ---
 
 およそ 1 年ぶりの撮影。

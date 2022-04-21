@@ -15,7 +15,7 @@ tags:
   - Boeing
   - ANA
   - JAL
-image: https://i.imgur.com/PmXbtjL.jpg
+image: https://i.imgur.com/DTkNhcN.jpg
 ---
 
 ## 福岡空港展望デッキ
