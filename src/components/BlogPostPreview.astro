@@ -33,7 +33,7 @@ const { post } = Astro.props
     object-fit: cover;
     object-position: center;
     margin-top: 2rem;
-    margin-bottom: 0;
+    margin-bottom: 4rem;
     max-width: 1280px;
   }
 
@@ -45,14 +45,16 @@ const { post } = Astro.props
     }
   }
 
-  .content :global(main > * + *) {
+  .post-preview {
+    margin-bottom: 8rem;
+  }
+
+  .post-preview :global(main > * + *) {
     margin-top: 1rem;
   }
 
-  .post-preview {
-    padding-bottom: 2rem;
-    margin-bottom: 2rem;
-    border-bottom: 4px solid var(--theme-divider);
+  .post-preview :global(h2) {
+    margin-top: 4rem;
   }
 
   header {
