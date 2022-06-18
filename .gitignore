@@ -22,3 +22,5 @@ yarn-error.log*
 JOURNEY.md
 
 .idea
+
+public/feeds.xml

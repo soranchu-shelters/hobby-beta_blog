@@ -5,8 +5,9 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
-    "build:feeds": "node --loader ts-node/esm scripts/feeds.ts",
+    "build": "npm run build:feeds && npm run build:front",
+    "build:feeds": "node --loader ts-node/esm scripts/feeds.mjs",
+    "build:front": "astro build",
     "format": "prettier --write \"**/*.{js,jsx,json,ts,tsx,md,mdx,css,html,yml,yaml,scss,sass}\" --ignore-path .gitignore",
     "textlint": "textlint ./src/pages/posts/**",
     "textlint:fix": "textlint ./src/pages/posts/** --fix"
@@ -17,8 +18,13 @@
   "devDependencies": {
     "@astrojs/svelte": "0.1.1",
     "astro": "1.0.0-beta.9",
+    "feed": "4.2.2",
+    "fs-extra": "10.1.0",
     "prettier": "2.6.2",
     "prettier-plugin-astro": "0.0.12",
+    "remark-frontmatter": "4.0.1",
+    "remark-parse": "10.0.1",
+    "remark-stringify": "10.0.2",
     "textlint": "12.1.1",
     "textlint-rule-ja-no-space-around-parentheses": "2.2.0",
     "textlint-rule-ja-no-space-between-full-width": "2.2.0",
@@ -26,6 +32,9 @@
     "textlint-rule-no-mix-dearu-desumasu": "5.0.0",
     "textlint-rule-preset-ja-spacing": "2.2.0",
     "textlint-rule-preset-ja-technical-writing": "7.0.0",
-    "textlint-rule-spellcheck-tech-word": "5.0.0"
+    "textlint-rule-spellcheck-tech-word": "5.0.0",
+    "to-vfile": "7.2.3",
+    "ts-node": "10.8.1",
+    "unified": "10.1.2"
   }
 }
