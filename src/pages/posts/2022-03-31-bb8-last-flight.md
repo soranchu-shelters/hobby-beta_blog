@@ -7,7 +7,7 @@ authorTwitter: jiyuujinlab
 category: aviation
 title: The LAST BB-8
 type: post
-date: 2022-06-01
+date: 2022-03-31
 tags:
   - Boeing777
   - Boeing

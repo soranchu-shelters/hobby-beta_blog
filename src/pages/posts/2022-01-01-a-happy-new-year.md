@@ -7,7 +7,7 @@ authorTwitter: jiyuujinlab
 category: aviation
 title: A Happy New Year 2022
 type: post
-date: 2022-01-05
+date: 2022-01-01
 tags:
   - Boeing777
   - Boeing

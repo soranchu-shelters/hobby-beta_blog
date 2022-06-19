@@ -15,8 +15,6 @@ tags:
 image: https://i.imgur.com/MKVXN18.jpg
 ---
 
-あれから 2 年が経過、コロナ前を象徴するイベントでした。
-
 ![](https://i.imgur.com/IXpBXii.jpg)
 
 <!--

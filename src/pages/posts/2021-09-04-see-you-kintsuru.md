@@ -7,7 +7,7 @@ authorTwitter: jiyuujinlab
 category: aviation
 title: See you, the Gold Crane
 type: post
-date: 2021-09-01
+date: 2021-09-04
 tags:
   - Tokyo2020
   - AirbusA350XWB

@@ -7,7 +7,7 @@ authorTwitter: jiyuujinlab
 category: aviation
 title: Autumn Hokkaido
 type: post
-date: 2021-10-27
+date: 2021-10-23
 tags:
   - AirbusA380
   - Airbus

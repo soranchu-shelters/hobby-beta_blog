@@ -7,7 +7,7 @@ authorTwitter: jiyuujinlab
 category: aviation
 title: FUK/RJFF Observation Deck
 type: post
-date: 2022-01-25
+date: 2022-01-08
 tags:
   - Boeing787
   - Boeing777

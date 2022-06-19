@@ -7,7 +7,7 @@ authorTwitter: jiyuujinlab
 category: aviation
 title: Shimoji Blue
 type: post
-date: 2021-12-08
+date: 2021-10-26
 tags:
   - AirbusA380
   - Airbus

@@ -7,7 +7,7 @@ authorTwitter: jiyuujinlab
 category: aviation
 title: Beluga Japan
 type: post
-date: 2021-12-29
+date: 2021-12-25
 tags:
   - AirbusA300
   - Airbus

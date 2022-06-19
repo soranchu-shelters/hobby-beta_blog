@@ -7,7 +7,7 @@ authorTwitter: jiyuujinlab
 category: aviation
 title: What is the Itami weather
 type: post
-date: 2021-11-17
+date: 2021-11-13
 tags:
   - AirbusA350XWB
   - Boeing767
