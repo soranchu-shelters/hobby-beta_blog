@@ -12,16 +12,14 @@ export interface Props {
 const { title, author, image, alt } = Astro.props
 ---
 
-<article class="content">
+<div class="content">
   <header>
     {image && <img width="720" height="420" class="hero-image" loading="lazy" src={image} alt={alt} />}
     <h1 class="title">{title}</h1>
     <Author name="@jiyuujin" href="https://twitter.com/jiyuujinlab" />
   </header>
-  <main>
-    <slot />
-  </main>
-</article>
+  <slot />
+</div>
 
 <style>
   .hero-image {
@@ -42,15 +40,12 @@ const { title, author, image, alt } = Astro.props
   }
 
   .content {
+    margin-top: 4rem;
     margin-bottom: 8rem;
   }
 
   .content :global(main > * + *) {
     margin-top: 1rem;
-  }
-
-  .content :global(h2) {
-    margin-top: 4rem;
   }
 
   header {
