@@ -10,6 +10,44 @@ const { lang, title, description, publishDate, author, heroImage, permalink, alt
 <html lang={lang || 'ja'}>
   <head>
     <BaseHead {title} {description} {permalink} />
+
+    <style is:global>
+      /* ダークモードを使わない場合 */
+      body {
+        background-color: rgba(232, 242, 255, 100%);
+        color: #303030;
+      }
+
+      a {
+        color: #303030;
+      }
+
+      main {
+        background-color: transparent;
+      }
+
+      .article .post-detail h2,
+      .article .post-detail h3,
+      .article .post-detail h4,
+      .article .post-detail p,
+      .article .post-detail li,
+      .article .post-detail td,
+      .article .post-detail tr {
+        color: #303030;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        .article .post-detail h2,
+        .article .post-detail h3,
+        .article .post-detail h4,
+        .article .post-detail p,
+        .article .post-detail li,
+        .article .post-detail td,
+        .article .post-detail tr {
+          color: #303030;
+        }
+      }
+    </style>
   </head>
 
   <body>
