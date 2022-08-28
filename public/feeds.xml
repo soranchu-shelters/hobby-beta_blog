@@ -4,17 +4,17 @@
         <title>そらんちゅぐらむ</title>
         <link>undefined</link>
         <description>技術ブログと別のブログとして、一眼レフ (Nikon) を使った「お写歩」活動を記録しています。</description>
-        <lastBuildDate>Wed, 06 Jul 2022 12:27:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 23:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>nekohack</copyright>
         <item>
-            <title><![CDATA[Beluga Japan]]></title>
-            <link>https://aviation.nekohack.me/posts/2021-12-25-xmas-present</link>
-            <guid>https://aviation.nekohack.me/posts/2021-12-25-xmas-present</guid>
-            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Beluga Japanについて書かせていただきました。]]></description>
+            <title><![CDATA[See you, the Gold Crane]]></title>
+            <link>https://aviation.nekohack.me/posts/2021-09-04-see-you-kintsuru</link>
+            <guid>https://aviation.nekohack.me/posts/2021-09-04-see-you-kintsuru</guid>
+            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[See you, the Gold Craneについて書かせていただきました。]]></description>
         </item>
         <item>
             <title><![CDATA[Autumn Hokkaido]]></title>
@@ -24,41 +24,6 @@
             <description><![CDATA[Autumn Hokkaidoについて書かせていただきました。]]></description>
         </item>
         <item>
-            <title><![CDATA[Shimoji Blue]]></title>
-            <link>https://aviation.nekohack.me/posts/2021-10-26-shimoji-blue</link>
-            <guid>https://aviation.nekohack.me/posts/2021-10-26-shimoji-blue</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Shimoji Blueについて書かせていただきました。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[See you, the Gold Crane]]></title>
-            <link>https://aviation.nekohack.me/posts/2021-09-04-see-you-kintsuru</link>
-            <guid>https://aviation.nekohack.me/posts/2021-09-04-see-you-kintsuru</guid>
-            <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[See you, the Gold Craneについて書かせていただきました。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Japan, Joe Biden]]></title>
-            <link>https://aviation.nekohack.me/posts/2022-05-22-welcome-joe-biden</link>
-            <guid>https://aviation.nekohack.me/posts/2022-05-22-welcome-joe-biden</guid>
-            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to Japan, Joe Bidenについて書かせていただきました。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FUK/RJFF Observation Deck]]></title>
-            <link>https://aviation.nekohack.me/posts/2022-01-08-fuk-observation-deck</link>
-            <guid>https://aviation.nekohack.me/posts/2022-01-08-fuk-observation-deck</guid>
-            <pubDate>Sat, 08 Jan 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[FUK/RJFF Observation Deckについて書かせていただきました。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[A Happy New Year 2022]]></title>
-            <link>https://aviation.nekohack.me/posts/2022-01-01-a-happy-new-year</link>
-            <guid>https://aviation.nekohack.me/posts/2022-01-01-a-happy-new-year</guid>
-            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[A Happy New Year 2022について書かせていただきました。]]></description>
-        </item>
-        <item>
             <title><![CDATA[Rediscover Queen of the Skies]]></title>
             <link>https://aviation.nekohack.me/posts/2019-08-17-rediscover-that-quuen-of-the-skies</link>
             <guid>https://aviation.nekohack.me/posts/2019-08-17-rediscover-that-quuen-of-the-skies</guid>
@@ -66,11 +31,32 @@
             <description><![CDATA[Rediscover Queen of the Skiesについて書かせていただきました。]]></description>
         </item>
         <item>
-            <title><![CDATA[QUAD in Tokyo]]></title>
-            <link>https://aviation.nekohack.me/posts/2022-05-24-quad-in-tokyo</link>
-            <guid>https://aviation.nekohack.me/posts/2022-05-24-quad-in-tokyo</guid>
-            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[QUAD in Tokyoについて書かせていただきました。]]></description>
+            <title><![CDATA[Shimoji Blue]]></title>
+            <link>https://aviation.nekohack.me/posts/2021-10-26-shimoji-blue</link>
+            <guid>https://aviation.nekohack.me/posts/2021-10-26-shimoji-blue</guid>
+            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Shimoji Blueについて書かせていただきました。]]></description>
+        </item>
+    </channel>
+</rss>      <title><![CDATA[What is the Itami weather]]></title>
+            <link>https://aviation.nekohack.me/posts/2021-11-13-what-is-the-itami-weather</link>
+            <guid>https://aviation.nekohack.me/posts/2021-11-13-what-is-the-itami-weather</guid>
+            <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is the Itami weatherについて書かせていただきました。]]></description>
+        </item>
+    </channel>
+</rss>      <title><![CDATA[A Happy New Year 2022]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-01-01-a-happy-new-year</link>
+            <guid>https://aviation.nekohack.me/posts/2022-01-01-a-happy-new-year</guid>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A Happy New Year 2022について書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Beluga Japan]]></title>
+            <link>https://aviation.nekohack.me/posts/2021-12-25-xmas-present</link>
+            <guid>https://aviation.nekohack.me/posts/2021-12-25-xmas-present</guid>
+            <pubDate>Sat, 25 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Beluga Japanについて書かせていただきました。]]></description>
         </item>
         <item>
             <title><![CDATA[The LAST BB-8]]></title>
@@ -80,11 +66,39 @@
             <description><![CDATA[The LAST BB-8について書かせていただきました。]]></description>
         </item>
         <item>
-            <title><![CDATA[What is the Itami weather]]></title>
-            <link>https://aviation.nekohack.me/posts/2021-11-13-what-is-the-itami-weather</link>
-            <guid>https://aviation.nekohack.me/posts/2021-11-13-what-is-the-itami-weather</guid>
-            <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[What is the Itami weatherについて書かせていただきました。]]></description>
+            <title><![CDATA[Welcome to Japan, Joe Biden]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-05-22-welcome-joe-biden</link>
+            <guid>https://aviation.nekohack.me/posts/2022-05-22-welcome-joe-biden</guid>
+            <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to Japan, Joe Bidenについて書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ANA 76E Domestic Flight]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-07-28-domestic-flight-by-76e</link>
+            <guid>https://aviation.nekohack.me/posts/2022-07-28-domestic-flight-by-76e</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[ANA 76E Domestic Flightについて書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[JAL 77E Domestic Flight]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-07-30-domestic-flight-to-isgroig-by-77e</link>
+            <guid>https://aviation.nekohack.me/posts/2022-07-30-domestic-flight-to-isgroig-by-77e</guid>
+            <pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[JAL 77E Domestic Flightについて書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FUK/RJFF Observation Deck]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-01-08-fuk-observation-deck</link>
+            <guid>https://aviation.nekohack.me/posts/2022-01-08-fuk-observation-deck</guid>
+            <pubDate>Sat, 08 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[FUK/RJFF Observation Deckについて書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[QUAD in Tokyo]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-05-24-quad-in-tokyo</link>
+            <guid>https://aviation.nekohack.me/posts/2022-05-24-quad-in-tokyo</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[QUAD in Tokyoについて書かせていただきました。]]></description>
         </item>
     </channel>
 </rss>
