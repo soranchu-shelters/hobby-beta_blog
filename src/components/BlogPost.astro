@@ -13,11 +13,9 @@ const { title, author, image, alt } = Astro.props
 ---
 
 <div class="content">
-  <header>
-    {image && <img width="720" height="420" class="hero-image" loading="lazy" src={image} alt={alt} />}
-    <h1 class="title">{title}</h1>
-    <Author name="@jiyuujin" href="https://twitter.com/jiyuujinlab" />
-  </header>
+  {image && <img width="720" height="420" class="hero-image" loading="lazy" src={image} alt={alt} />}
+  <h1 class="title">{title}</h1>
+  <Author name="@jiyuujin" href="https://twitter.com/jiyuujinlab" />
   <slot />
 </div>
 
@@ -40,23 +38,17 @@ const { title, author, image, alt } = Astro.props
   }
 
   .content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
     margin-top: 4rem;
     margin-bottom: 8rem;
   }
 
   .content :global(main > * + *) {
     margin-top: 1rem;
-  }
-
-  header {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    padding-bottom: 2rem;
-    margin-bottom: 2rem;
-    border-bottom: 4px solid var(--theme-divider);
   }
 
   .title,
