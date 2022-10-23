@@ -1,6 +1,5 @@
 ---
 import BaseHead from '../components/BaseHead.astro'
-import BlogHeader from '../components/BlogHeader.astro'
 import BlogPost from '../components/BlogPost.astro'
 
 const { content } = Astro.props
@@ -51,7 +50,6 @@ const { lang, title, description, publishDate, author, heroImage, permalink, alt
   </head>
 
   <body>
-    <BlogHeader />
     <div class="section">
       <BlogPost {title} {author} {heroImage} {publishDate} {alt}>
         <div class="article">
