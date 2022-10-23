@@ -28,7 +28,7 @@ image: https://i.imgur.com/7IcP6o7.jpg
 
 今回は Manfrotto の三脚 ([詳細](https://www.amazon.co.jp/dp/B084J16GMS)) を利用させていただきました。
 
-[Manfrotto 三脚 Element MII アルミニウム 4段 ブラック トラベル三脚 軽量 キャリーバッグ付属 最大耐荷重8kg 自由雲台 運動会 発表会 旅行 MKELMII4BK-BH]()
+[Manfrotto 三脚 Element MII アルミニウム 4 段 ブラック トラベル三脚 軽量 キャリーバッグ付属 最大耐荷重 8kg 自由雲台 運動会 発表会 旅行 MKELMII4BK-BH](https://www.amazon.co.jp/Manfrotto-Element-%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%BC%E3%83%90%E3%83%83%E3%82%B0%E4%BB%98%E5%B1%9E-%E6%9C%80%E5%A4%A7%E8%80%90%E8%8D%B7%E9%87%8D8kg-MKELMII4BK-BH/dp/B084J16GMS)
 
 当初、花火の上がる位置をそれぞれ下記のように予想していました。
 
