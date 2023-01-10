@@ -14,7 +14,7 @@ const { title, author, image, alt } = Astro.props
 
 <div class="content">
   {image && <img width="720" height="420" class="hero-image" loading="lazy" src={image} alt={alt} />}
-  <h1 class="title">{title}</h1>
+  <h1 class="post-title">{title}</h1>
   <Author name="@jiyuujin" href="https://twitter.com/jiyuujinlab" />
   <slot />
 </div>
@@ -51,13 +51,13 @@ const { title, author, image, alt } = Astro.props
     margin-top: 1rem;
   }
 
-  .title,
+  .post-title,
   .publish-date,
   .author {
     font-size: 1.25rem;
   }
 
-  .title {
+  .post-title {
     font-size: 2.25rem;
     font-weight: 700;
   }
