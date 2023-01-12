@@ -2,6 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import BlogHeader from '../components/BlogHeader.astro';
 import BlogPostPreview from '../components/BlogPostPreview.astro';
+import Nav from '../components/Nav.astro'
 
 let title = 'soranchu.ninja | instagram';
 let description = 'The perfect product for your aviation blog.';
@@ -41,8 +42,12 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new 
   </head>
 
   <body>
+    <Nav>
+      <div class="nav">
+        <BlogHeader title={title} description={description} />
+      </div>
+    </Nav>
     <div class="content">
-      <BlogHeader {title} {description} />
       <div aria-label="Blog post list">
         <div class="grid">
           {allPosts.map((p) => <BlogPostPreview post={p} />)}
@@ -53,6 +58,12 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new 
 </html>
 
 <style>
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+  }
+
   .grid {
     display: grid;
     gap: 10px;
