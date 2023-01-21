@@ -15,7 +15,7 @@ tags:
 image: https://i.imgur.com/LwkSXJI.jpg
 ---
 
-ホヌ、秋の遠征を追いました。
+## ホヌ、秋の遠征
 
 オリパラ終わって朝晩冷える季節となった、北の大地。
 
@@ -36,7 +36,9 @@ image: https://i.imgur.com/LwkSXJI.jpg
 
 ![](https://i.imgur.com/LwkSXJI.jpg)
 
-9/19 北海道周遊を無事に終えた Honu は翼を休めます。
+### 番外
+
+9/19 北海道周遊を無事に終えた Honu は翼を休める。
 
 ![](https://i.imgur.com/G4kMOfF.jpg)
 
@@ -46,7 +48,9 @@ image: https://i.imgur.com/LwkSXJI.jpg
 
 [A10](https://www.google.com/maps/place/%E3%80%92059-1361+%E5%8C%97%E6%B5%B7%E9%81%93%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%BE%8E%E6%B2%A2/@42.7648575,141.6900954,16z/data=!4m2!3m1!1s0x5f751f86c05977e3:0xc7653ef019da3bc4) より撮影させていただいた。
 
-成田へお帰りとなります。
+## 成田へお帰りの日
+
+01L より離陸。
 
 ![](https://i.imgur.com/XlcYhE9.jpg)
 

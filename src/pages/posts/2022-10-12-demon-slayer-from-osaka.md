@@ -20,13 +20,17 @@ NH30 に投入されたので、今回はそれに搭乗します。
 
 ![](https://i.imgur.com/zJgMoYd.jpg)
 
-初めての 722 仕様機、個人的に初めて搭乗します。
+## 初めての 722 仕様機
+
+個人的に 722 仕様機に初めて搭乗します。
 
 JAL の B777 は、気付けば今年 4 度の搭乗を果たしています。
 
 > https://soratabi.nekohack.me/posts/2022-07-30-domestic-flight-to-isgroig-by-77e/
 
 離陸する際の PW4090 の音については、是非 [動画](https://www.youtube.com/watch?v=qkRFITxdKrc) をご確認いただきたい。
+
+### 機内にて
 
 機内でまったり過ごす瞬間は悪くありません。
 

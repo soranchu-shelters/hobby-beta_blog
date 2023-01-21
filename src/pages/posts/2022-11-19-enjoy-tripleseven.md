@@ -23,7 +23,9 @@ image: https://i.imgur.com/fvEVWPc.jpg
 
 ![](https://i.imgur.com/fvEVWPc.jpg)
 
-羽田を離陸した後、上空は大変分厚い雲に覆われていましたが、さすがは富士山の迫力を感じてしまいます。
+## 羽田を離陸した後に
+
+上空は大変分厚い雲に覆われていましたが、さすがは富士山の迫力を感じてしまいます。
 
 ![](https://i.imgur.com/sWXmuM4.jpg)
 
