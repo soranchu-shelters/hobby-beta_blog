@@ -56,6 +56,12 @@ NH246 にも投入されたので、今回はそれに搭乗するため、伊�
 
 離陸する際の PW4090 の音については、是非 [動画](https://www.youtube.com/watch?v=6LDckMz542s) をご確認いただきたい。
 
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/6LDckMz542s?autoplay=1&mute=1" class="player" title="PW4090 音" loading="lazy"></iframe>
+  </div>
+</div>
+
 機内でまったり過ごす瞬間は悪くありません。
 
 ![](https://i.imgur.com/u4p8dXW.jpg)

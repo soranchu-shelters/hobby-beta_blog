@@ -29,6 +29,18 @@ JAL SKY SUITE Ⅲ (77E) で行くフライト。
 
 詳しくは [離陸動画](https://www.youtube.com/watch?v=0xIXa6C6Yfk) ([フル](https://www.youtube.com/watch?v=anvSDpj2xrI&t=37s)) をご確認いただければ幸いです。
 
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/0xIXa6C6Yfk?autoplay=1&mute=1" class="player" title="離陸動画" loading="lazy"></iframe>
+  </div>
+</div>
+
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/anvSDpj2xrI?autoplay=1&mute=1" class="player" title="離陸フル動画" loading="lazy"></iframe>
+  </div>
+</div>
+
 34R (Runway C) 離陸後、右にひねります。
 
 一時太陽の差し込む方向と並行して上昇する区間がありました。

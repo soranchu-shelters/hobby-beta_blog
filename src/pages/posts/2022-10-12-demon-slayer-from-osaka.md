@@ -28,6 +28,12 @@ JAL の B777 は、気付けば今年 4 度の搭乗を果たしています。
 
 離陸する際の PW4090 の音については、是非 [動画](https://www.youtube.com/watch?v=qkRFITxdKrc) をご確認いただきたい。
 
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/qkRFITxdKrc?autoplay=1&mute=1" class="player" title="PW4090 音" loading="lazy"></iframe>
+  </div>
+</div>
+
 機内でまったり過ごす瞬間は悪くありません。
 
 ![](https://i.imgur.com/Z12u97r.jpg)
