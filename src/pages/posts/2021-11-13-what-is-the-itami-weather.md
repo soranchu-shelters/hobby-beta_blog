@@ -20,9 +20,9 @@ tags:
 image: https://i.imgur.com/9w0G7x3.jpg
 ---
 
-久しく伊丹で展開したのでその記録をば。
+久しく伊丹の地で展開したのでその記録をば。
 
-## これこそ「伊丹ウェザー」
+「伊丹ウェザー」を体感できます。
 
 那覇からやって来た A350-XWB (JA08XJ) と、東京へ戻って行くドリームエクスプレスファンタジア 80 (JA622J) の離合。
 
@@ -38,9 +38,15 @@ image: https://i.imgur.com/9w0G7x3.jpg
 
 晴れ間の見えなかった機体に対し [動画](https://youtu.be/AfT-fxZf7EM) の撮影で済ませた。
 
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/AfT-fxZf7EM?autoplay=1&mute=1" class="player" title="動画" loading="lazy"></iframe>
+  </div>
+</div>
+
 CF6 特有の高鳴りを是非とも確認していただきたい。
 
-### 貴重な晴れ間を捉える
+貴重な晴れ間を捉えます。
 
 福島より戻ってきた新むすび丸 (JA14RJ)
 
