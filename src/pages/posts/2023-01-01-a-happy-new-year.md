@@ -29,6 +29,12 @@ image: https://i.imgur.com/wNUZO3q.jpg
 
 詳しくは [離陸動画](https://www.youtube.com/watch?v=B0ZBKDYTxB8) をご確認いただければ幸いです。
 
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/B0ZBKDYTxB8?autoplay=1&mute=1" class="player" title="離陸動画" loading="lazy"></iframe>
+  </div>
+</div>
+
 16 離陸後、左にひねります。
 
 上昇真っ只中、日の出づること 07 時 15 分。

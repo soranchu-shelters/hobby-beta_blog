@@ -45,8 +45,17 @@ image: https://i.imgur.com/IXjnBx2.jpg
 
 もくもくとした雲、羽田の転がりはまるで真夏の様子が見えます。
 
-- 羽田の離陸動画は [こちら](https://www.youtube.com/watch?v=NFc92Jv_LkU)
-- 石垣の離陸動画は [こちら](https://www.youtube.com/watch?v=SNhFOBrNpaE)
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/NFc92Jv_LkU?autoplay=1&mute=1" class="player" title="羽田の離陸動画" loading="lazy"></iframe>
+  </div>
+</div>
+
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/SNhFOBrNpaE?autoplay=1&mute=1" class="player" title="石垣の離陸動画" loading="lazy"></iframe>
+  </div>
+</div>
 
 いずれも水分の多い日であったことに変わりありません。
 

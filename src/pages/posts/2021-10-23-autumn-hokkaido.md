@@ -42,6 +42,12 @@ image: https://i.imgur.com/LwkSXJI.jpg
 
 ターミナル対岸からも [見られる](https://www.youtube.com/watch?v=Azbdr5jbN6o) ようですね。
 
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/Azbdr5jbN6o?autoplay=1&mute=1" class="player" title="" loading="lazy"></iframe>
+  </div>
+</div>
+
 遊覧飛行を終え、成田へお帰りを残すのみ。
 
 [A10](https://www.google.com/maps/place/%E3%80%92059-1361+%E5%8C%97%E6%B5%B7%E9%81%93%E8%8B%AB%E5%B0%8F%E7%89%A7%E5%B8%82%E7%BE%8E%E6%B2%A2/@42.7648575,141.6900954,16z/data=!4m2!3m1!1s0x5f751f86c05977e3:0xc7653ef019da3bc4) より撮影させていただいた。
@@ -51,6 +57,12 @@ image: https://i.imgur.com/LwkSXJI.jpg
 ![](https://i.imgur.com/XlcYhE9.jpg)
 
 是非とも [離陸前動画](https://youtu.be/QpXHkgn3XdA) をご覧ください。
+
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/QpXHkgn3XdA?autoplay=1&mute=1" class="player" title="離陸前動画" loading="lazy"></iframe>
+  </div>
+</div>
 
 昨日に引き続き嬉しい青空だった。
 
