@@ -15,9 +15,9 @@ tags:
 image: https://i.imgur.com/kfc3XlU.jpg
 ---
 
-下地ブルーになります。
+## 下地ブルー
 
-とはいえ合成、という前置きをば。
+合成です、という前置きをば。
 
 ![](https://i.imgur.com/kfc3XlU.jpg)
 
@@ -28,7 +28,7 @@ image: https://i.imgur.com/kfc3XlU.jpg
 
 ## 番外
 
-沖縄を拠点に置く `鮫` と共演しました。
+沖縄を拠点に置く `鮫` との共演です。
 
 日本トランスオーシャン航空 (JTA) 所属の JA06RK です。
 
