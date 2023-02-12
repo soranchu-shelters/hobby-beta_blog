@@ -1,6 +1,4 @@
 ---
-import { Image } from '@astrojs/image/components'
-
 export interface Props {
   title: string;
   author: string;
@@ -13,7 +11,7 @@ const { title, author, image, alt } = Astro.props
 ---
 
 <div class="content">
-  {image && <Image width={720} height={420} class="hero-image" loading="lazy" src={image} alt={alt} />}
+  {image && <img width="720" height="420" class="hero-image" loading="lazy" src={image} alt={alt} />}
   <slot />
 </div>
 
