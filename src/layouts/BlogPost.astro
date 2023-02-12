@@ -2,12 +2,12 @@
 import BaseHead from '../components/BaseHead.astro'
 import BlogHeader from '../components/BlogHeader.astro'
 import BlogPost from '../components/BlogPost.astro'
-import Nav from '../components/Nav.astro'
 
 import '../assets/lib/customize/_article.scss'
 import '../assets/lib/customize/_twitter.scss'
 import '../assets/lib/_layout.scss'
 import '../assets/player.scss'
+import '../assets/section.scss'
 
 const { content } = Astro.props
 const { lang, title, description, publishDate, author, heroImage, permalink, alt } = content
@@ -27,10 +27,6 @@ const { lang, title, description, publishDate, author, heroImage, permalink, alt
         color: #303030;
       }
 
-      main {
-        background-color: transparent;
-      }
-
       .article .post-detail h2,
       .article .post-detail h3,
       .article .post-detail h4,
@@ -44,19 +40,19 @@ const { lang, title, description, publishDate, author, heroImage, permalink, alt
   </head>
 
   <body>
-    <Nav>
-      <div class="nav">
-        <BlogHeader {title} {description} />
-      </div>
-    </Nav>
+    <div class="header">
+      <BlogHeader {title} {description} />
+    </div>
     <div class="section">
-      <BlogPost {title} {author} {heroImage} {publishDate} {alt}>
-        <div class="article">
-          <div class="post-detail">
-            <slot />
+      <div class="main">
+        <BlogPost {title} {author} {heroImage} {publishDate} {alt}>
+          <div class="article">
+            <div class="post-detail">
+              <slot />
+            </div>
           </div>
-        </div>
-      </BlogPost>
+        </BlogPost>
+      </div>
     </div>
   </body>
 </html>
