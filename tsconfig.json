@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true,
-    "types": ["@astrojs/image/client"]
+    "allowSyntheticDefaultImports": true
   }
 }
