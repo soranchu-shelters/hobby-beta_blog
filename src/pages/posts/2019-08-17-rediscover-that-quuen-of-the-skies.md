@@ -1,7 +1,6 @@
 ---
 setup: |
   import Layout from '../../layouts/BlogPost.astro'
-  import Cool from '../../components/Author.astro'
 author: jiyuujin
 authorTwitter: jiyuujinlab
 category: aviation
@@ -17,10 +16,7 @@ image: https://i.imgur.com/MKVXN18.jpg
 
 ![](https://i.imgur.com/IXpBXii.jpg)
 
-<!--
-ToDo: Embed Tweet
-https://twitter.com/Daisuke_9taro/status/1427884093031600129?s=20
--->
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/cat_vol7?src=hash&amp;ref_src=twsrc%5Etfw">#cat_vol7</a> 昨日でちょうど2年経ったみたい<br>なつかしや〜〜〜🏮🐱🐤<br><br>（我ながら盛り付けがひどすぎる） <a href="https://t.co/P7EXxCb4ne">pic.twitter.com/P7EXxCb4ne</a></p>&mdash; Qtaro👻🐣 (@Daisuke_9taro) <a href="https://twitter.com/Daisuke_9taro/status/1427884093031600129?ref_src=twsrc%5Etfw">August 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 やや技術寄りの内容は下記ブログをご確認いただければ幸いです。
 
