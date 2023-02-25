@@ -3,7 +3,7 @@ layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
 authorTwitter: jiyuujinlab
 category: aviation
-title: AMC Bronze at first
+title: Achievement AMC Bronze
 type: post
 date: 2022-12-14
 tags:
@@ -13,13 +13,18 @@ tags:
 image: https://i.imgur.com/px3jpIV.jpg
 ---
 
-今年、例年のような「修行」をおこなっていませんが、気付けば秋口にも吹っ切れました。
+今年を象徴するフライト。
 
-![](https://i.imgur.com/WiNhRHJ.jpg)
+- 冬眠を経てトリプルセブンの復活
+- スペマ (鬼滅)
+
+![](/assets/img/JA745A.jpg)
+
+今年、例年のような「修行」をおこなっていませんが、気付けば秋口にも吹っ切れました。
 
 2 倍 PP キャンペーンにも後押しされ、ブロンズを達成しました。
 
-ANA 便だけで 17 便に搭乗しています。
+ANA 便だけで 17 便に搭乗したようです。
 
 | #          | Departure | Arrival | Boarding Type |
 | :--------- | :-------- | :------ | :------------ |
@@ -41,4 +46,16 @@ ANA 便だけで 17 便に搭乗しています。
 | 2022/11/19 | HND       | ITM     | Boeing777     |
 | 2022/12/14 | ITM       | HND     | Boeing787     |
 
-来年も後半は特に、しっかり搭乗できそうかしら。
+来年も後半特に、搭乗できそうかしら。
+
+なお、機内食のクオリティは、ほんとうに高いです。
+
+ただし、紅組 (JAL) には及ばないのも、現実に存在しています。
+
+### 伊丹 (ITM) - 羽田 (HND)
+
+![](/assets/img/short-premium.jpg)
+
+### 福岡 (FUK) - 羽田 (HND)
+
+![](/assets/img/semi_long-premium.jpg)
