@@ -98,10 +98,10 @@ NH13 便として羽田より到着する瞬間を捕捉しました。
 
 石垣の「サンゴ」を臨みます。
 
-![](https://i.imgur.com/tGk8GYS.jpg)
+![](/assets/img/JA710J_5.jpg)
 
 ### JA702J の機窓
 
 飯田 (長野) の夕焼けを臨みます。
 
-![](https://i.imgur.com/F5wVL43.jpg)
+![](/assets/img/JA702J_3.jpg)
