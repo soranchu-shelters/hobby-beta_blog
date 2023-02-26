@@ -18,7 +18,7 @@ image: https://i.imgur.com/px3jpIV.jpg
 - 冬眠を経てトリプルセブンの復活
 - スペマ (鬼滅)
 
-![](/assets/img/JA745A.jpg)
+![](/assets/img/JA745A_1.jpg)
 
 今年、例年のような「修行」をおこなっていませんが、気付けば秋口にも吹っ切れました。
 
@@ -58,4 +58,4 @@ ANA 便だけで 17 便に搭乗したようです。
 
 ### 福岡 (FUK) - 羽田 (HND)
 
-![](/assets/img/semi_long-premium.jpg)
+![](/assets/img/Premium_FUKHND.jpg)
