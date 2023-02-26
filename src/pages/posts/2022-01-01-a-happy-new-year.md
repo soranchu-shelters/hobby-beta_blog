@@ -7,9 +7,12 @@ title: A Happy New Year 2022
 type: post
 date: 2022-01-01
 tags:
+  - Boeing787
   - Boeing777
+  - Boeing737
   - Boeing
   - JAL
+  - ANA
 image: https://i.imgur.com/PmXbtjL.jpg
 ---
 
@@ -17,11 +20,11 @@ image: https://i.imgur.com/PmXbtjL.jpg
 
 なお、お隣 12 番ゲートは [初日の出フライト](https://www.jal.co.jp/domtour/hatsuhinode/) (JA13XJ) で、出発直後だった模様。
 
-![](https://i.imgur.com/1XgBCT6.jpg)
+![](/assets/img/HND_Gate13.jpg)
 
 JAL SKY SUITE Ⅲ (77E) で行くフライト。
 
-![](https://i.imgur.com/9xYQ2i6.jpg)
+![](/assets/img/JA701J_2.jpg)
 
 ほのかに染まる空は美しい。
 
@@ -43,7 +46,7 @@ JAL SKY SUITE Ⅲ (77E) で行くフライト。
 
 一時太陽の差し込む方向と並行して上昇する区間がありました。
 
-![](https://i.imgur.com/PmXbtjL.jpg)
+![](/assets/img/JA701J_3.jpg)
 
 GE90-94B の燃ゆるが如し。
 
@@ -51,7 +54,7 @@ GE90-94B の燃ゆるが如し。
 
 こちらは取り急ぎ、現像させていただきます。
 
-![](https://i.imgur.com/cZaJkXV.jpg)
+![](/assets/img/NikonD7500.jpg)
 
 ファインダーをこうやって晒すのも、珍しいでしょうか。
 
@@ -59,13 +62,13 @@ GE90-94B の燃ゆるが如し。
 
 対角線の上に差し込む日を感じます。
 
-![](https://i.imgur.com/FGwtiDg.jpg)
+![](/assets/img/JA701J_4.jpg)
 
 針路を西へ変更。
 
 初めてこの場で顔を覗かせます。
 
-![](https://i.imgur.com/4zSvzgo.jpg)
+![](/assets/img/JA701J_5.jpg)
 
 左手より日が差し込みます。
 
@@ -74,8 +77,60 @@ GE90-94B の燃ゆるが如し。
 
 南アルプス (富士山の北) 周辺を西進。
 
-![](https://i.imgur.com/dH79jH7.jpg)
+![](/assets/img/Fuji2022.jpg)
 
 機内はシャッター音に包まれます。
 
 こればかりは他のフライトと一切違い大変撮影しやすい環境になります。
+
+なお、そのまま福岡空港展望デッキへ、潜入させていただきました。
+
+まず、滑走路と離れている印象は全く (といっていいくらい) ありません。
+
+![](/assets/img/JA701J_1.jpg)
+
+4F に大きな広場がある。
+
+![](/assets/img/FUK_1.jpg)
+
+機体への目線が近いのも魅力的です。
+
+4F より 3F の方が良さそう。
+
+人の好みにもよります。
+
+![](/assets/img/FUK_2.jpg)
+
+なお、こちらのデッキは午前順光です。
+
+手前の誘導路を A350-XWB が行く様子は圧巻です。
+
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/rlg3B40HXww?autoplay=1&mute=1" class="player" title="圧巻の Airbus A350 が行く" loading="lazy"></iframe>
+  </div>
+</div>
+
+スペシャルマーキング、いわゆる `スペマ` も注目の的です。
+
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/6tvgdBfQCk8?autoplay=1&mute=1" class="player" title="JTA 世界自然遺産特別デザイン機が行く" loading="lazy"></iframe>
+  </div>
+</div>
+
+ちなみに、[手前の誘導路](https://www.youtube.com/watch?v=2nL3RF6I2uk) を ANA Boeing787 が行き [奥手の誘導路](https://www.youtube.com/watch?v=bDrY2uvFAgA) を JAL Boeing787 が行く姿は圧巻です。
+
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/2nL3RF6I2uk?autoplay=1&mute=1" class="player" title="手前の誘導路" loading="lazy"></iframe>
+  </div>
+</div>
+
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/bDrY2uvFAgA?autoplay=1&mute=1" class="player" title="奥手の誘導路" loading="lazy"></iframe>
+  </div>
+</div>
+
+![](/assets/img/JA52AN.jpg)

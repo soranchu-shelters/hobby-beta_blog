@@ -21,7 +21,7 @@ image: https://i.imgur.com/wNUZO3q.jpg
 
 今年も JAL SKY SUITE Ⅲ (77E) で行くフライト。
 
-![](https://i.imgur.com/R7d7vXf.jpg)
+![](/assets/img/JA702J_1.jpg)
 
 ほのかに染まる空は美しい。
 
@@ -39,13 +39,13 @@ image: https://i.imgur.com/wNUZO3q.jpg
 
 こちら取り急ぎ、現像させていただきました。
 
-![](https://i.imgur.com/Snu5h0Y.jpg)
+![](/assets/img/Sunrise2023.jpg)
 
 朝倉 (福岡) 上空。
 
 離陸後、たった 5 分が勝負時となります。
 
-![](https://i.imgur.com/wNUZO3q.jpg)
+![](/assets/img/JA701J_2.jpg)
 
 今年も GE90-94B の燃ゆるが如し。
 
@@ -53,16 +53,16 @@ image: https://i.imgur.com/wNUZO3q.jpg
 
 駿河湾 (富士山の南) 周辺を東進。
 
-![](https://i.imgur.com/cIP1qrF.jpg)
+![](/assets/img/Fuji2023_1.jpg)
 
 昨年と違い、そこまで撮影者は少なかった模様。
 
 とはいえ、こればかり他のフライトと一切違い大変撮影しやすい環境になります。
 
-![](https://i.imgur.com/gRcJRgu.jpg)
+![](/assets/img/Fuji2023_2.jpg)
 
 羽田 34L (Runway A) へ着陸した後、地上も青い空が出迎えます。
 
-![](https://i.imgur.com/FpQr8Gr.jpg)
+![](/assets/img/HND.jpg)
 
 今年も出だしから終始、心身ともたいへん満たされました。

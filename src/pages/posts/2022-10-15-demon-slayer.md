@@ -3,7 +3,7 @@ layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
 authorTwitter: jiyuujinlab
 category: aviation
-title: Damon Slayer from FUK/RJFF
+title: Damon Slayer from ITM/RJOO, FUK/RJFF
 type: post
 date: 2022-10-15
 tags:
@@ -14,9 +14,20 @@ tags:
 image: https://i.imgur.com/FS6b2BG.jpg
 ---
 
-NH246 にも投入されたので、今回はそれに搭乗するため、伊丹より福岡を経由して羽田へ向かいます。
+それぞれ投入されたので、その記録をば。
 
-![](https://i.imgur.com/FS6b2BG.jpg)
+- 12 日 NH30
+- 15 日 NH246
+
+初めての 722 仕様機、個人的に初めて搭乗します。
+
+JAL の B777 は、気付けば今年 4 度の搭乗を果たしています。
+
+> https://soratabi.nekohack.me/posts/2022-07-30-domestic-flight-to-isgroig-by-77e/
+
+なお、後者はそれに搭乗するため、伊丹より福岡を経由して羽田へ向かいます。
+
+![](/assets/img/JA745A_1.jpg)
 
 どん曇りだった水曜日のリベンジで、有り難く晴れショットをいただきました。
 
@@ -24,35 +35,41 @@ NH246 にも投入されたので、今回はそれに搭乗するため、伊�
 
 旅行支援の一環で利用者が増えていそう (?)
 
-![](https://i.imgur.com/0MegN7E.jpg)
+![](/assets/img/JA58AN.jpg)
 
 神戸空港を横目に、機体は上昇します。
 
-![](https://i.imgur.com/0Q4tvaN.jpg)
+![](/assets/img/UKB.jpg)
 
 明石海峡大橋に、淡路島もくっきり見えました。
 
-![](https://i.imgur.com/CwPemUw.jpg)
+![](/assets/img/JA745A_1.jpg)
 
 そこそこマニアも搭乗されていた NH246、奇しくも「鬼滅の刃」らしきファンも多かったように見えます。
 
-![](https://i.imgur.com/lq8XZAP.jpg)
+![](/assets/img/JA745A_2.jpg)
 
 晴れショットで押さえられたのは素直に嬉しい限り。
 
-![](https://i.imgur.com/FS6b2BG.jpg)
+![](/assets/img/JA745A_3.jpg)
 
 伊丹便でも無く、優先搭乗はさすがに多くありません。
 
-![](https://i.imgur.com/w5hdXtS.jpg)
+![](/assets/img/JA745A_4.jpg)
 
 ターミナルがガラス張りとなっている影響でしょう。
 
 綺麗なリフレクションとして機体が映っているのは大変印象に残りました。
 
-![](https://i.imgur.com/8IqosHZ.jpg)
+![](/assets/img/JA745A_5.jpg)
 
-離陸する際の PW4090 の音については、是非 [動画](https://www.youtube.com/watch?v=6LDckMz542s) をご確認いただきたい。
+離陸する際の PW4090 の音については、是非 [ITM 離陸編](https://www.youtube.com/watch?v=qkRFITxdKrc) と合わせ、[FUK 離陸編](https://www.youtube.com/watch?v=6LDckMz542s) をご確認いただきたい。
+
+<div class="wrapper">
+  <div class="container">
+    <iframe src="https://www.youtube.com/embed/qkRFITxdKrc?autoplay=1&mute=1" class="player" title="PW4090 音" loading="lazy"></iframe>
+  </div>
+</div>
 
 <div class="wrapper">
   <div class="container">
@@ -62,10 +79,10 @@ NH246 にも投入されたので、今回はそれに搭乗するため、伊�
 
 機内でまったり過ごす瞬間は悪くありません。
 
-![](https://i.imgur.com/u4p8dXW.jpg)
+![](/assets/img/Premium_FUKHND.jpg)
 
 伊丹便では、決して上がることのない 40,000 フィートまで、上昇を果たしました。
 
 静岡県御前崎の上空付近、雲は多いものの、比較的晴れているように見えます。
 
-![](https://i.imgur.com/xCERhkO.jpg)
+![](/assets/img/Omaezaki.jpg)
