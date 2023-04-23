@@ -19,7 +19,7 @@
     "@astrojs/svelte": "2.1.0",
     "astro": "2.3.0",
     "feed": "4.2.2",
-    "fs-extra": "10.1.0",
+    "fs-extra": "11.1.1",
     "prettier": "2.8.8",
     "prettier-plugin-astro": "0.8.0",
     "remark-frontmatter": "4.0.1",
