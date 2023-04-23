@@ -20,7 +20,7 @@
     "astro": "2.3.0",
     "feed": "4.2.2",
     "fs-extra": "10.1.0",
-    "prettier": "2.8.7",
+    "prettier": "2.8.8",
     "prettier-plugin-astro": "0.8.0",
     "remark-frontmatter": "4.0.1",
     "remark-parse": "10.0.1",
