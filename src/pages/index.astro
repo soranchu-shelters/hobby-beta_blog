@@ -16,6 +16,11 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new 
     <BaseHead {title} {description} {permalink} image="https://soratabi.nekohack.me/assets/top.jpg" />
 
     <style>
+      body {
+        padding: 0;
+        margin: 0;
+      }
+
       .header {
         z-index: 199;
         display: flex;
@@ -26,9 +31,21 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new 
         transition: 200ms;
       }
 
-      .latest {
-        font-size: 2.5rem;
-        font-weight: 700;
+      .grid {
+        display: grid;
+        gap: 20px;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        padding: 8px 48px;
+      }
+
+      .grid {
+        border-bottom: 1px solid #e6f6f5;
+      }
+
+      @media(min-width: 768px) {
+        .grid {
+          padding: 8px 16px;
+        }
       }
     </style>
   </head>
@@ -38,29 +55,9 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date).valueOf() - new 
       <BlogHeader title={title} description={description} />
     </div>
     <div class="content">
-      <div aria-label="Blog post list">
-        <div class="grid">
-          {allPosts.map((p) => <BlogPostPreview post={p} />)}
-        </div>
+      <div class="grid" aria-label="Blog post list">
+        {allPosts.map((p) => <BlogPostPreview post={p} />)}
       </div>
     </div>
   </body>
 </html>
-
-<style>
-  .header {
-    z-index: 199;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 100%;
-    background: #fff;
-    transition: 200ms;
-  }
-
-  .grid {
-    display: grid;
-    gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  }
-</style>
