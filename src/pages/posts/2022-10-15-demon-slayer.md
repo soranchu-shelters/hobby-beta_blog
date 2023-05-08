@@ -67,13 +67,13 @@ JAL の B777 は、気付けば今年 4 度の搭乗を果たしています。
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/qkRFITxdKrc?autoplay=1&mute=1" class="player" title="PW4090 音" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/qkRFITxdKrc" class="player" title="PW4090 音" loading="lazy"></iframe>
   </div>
 </div>
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/6LDckMz542s?autoplay=1&mute=1" class="player" title="PW4090 音" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/6LDckMz542s" class="player" title="PW4090 音" loading="lazy"></iframe>
   </div>
 </div>
 

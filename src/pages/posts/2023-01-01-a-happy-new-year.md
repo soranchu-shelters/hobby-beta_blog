@@ -29,7 +29,7 @@ image: https://i.imgur.com/wNUZO3q.jpg
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/B0ZBKDYTxB8?autoplay=1&mute=1" class="player" title="離陸動画" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/B0ZBKDYTxB8" class="player" title="離陸動画" loading="lazy"></iframe>
   </div>
 </div>
 

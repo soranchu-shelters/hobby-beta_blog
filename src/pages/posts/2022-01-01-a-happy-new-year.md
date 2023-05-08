@@ -32,13 +32,13 @@ JAL SKY SUITE Ⅲ (77E) で行くフライト。
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/0xIXa6C6Yfk?autoplay=1&mute=1" class="player" title="離陸動画" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/0xIXa6C6Yfk" class="player" title="離陸動画" loading="lazy"></iframe>
   </div>
 </div>
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/anvSDpj2xrI?autoplay=1&mute=1" class="player" title="離陸フル動画" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/anvSDpj2xrI" class="player" title="離陸フル動画" loading="lazy"></iframe>
   </div>
 </div>
 
@@ -107,7 +107,7 @@ GE90-94B の燃ゆるが如し。
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/rlg3B40HXww?autoplay=1&mute=1" class="player" title="圧巻の Airbus A350 が行く" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/rlg3B40HXww" class="player" title="圧巻の Airbus A350 が行く" loading="lazy"></iframe>
   </div>
 </div>
 
@@ -115,7 +115,7 @@ GE90-94B の燃ゆるが如し。
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/6tvgdBfQCk8?autoplay=1&mute=1" class="player" title="JTA 世界自然遺産特別デザイン機が行く" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/6tvgdBfQCk8" class="player" title="JTA 世界自然遺産特別デザイン機が行く" loading="lazy"></iframe>
   </div>
 </div>
 
@@ -123,13 +123,13 @@ GE90-94B の燃ゆるが如し。
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/2nL3RF6I2uk?autoplay=1&mute=1" class="player" title="手前の誘導路" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/2nL3RF6I2uk" class="player" title="手前の誘導路" loading="lazy"></iframe>
   </div>
 </div>
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/bDrY2uvFAgA?autoplay=1&mute=1" class="player" title="奥手の誘導路" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/bDrY2uvFAgA" class="player" title="奥手の誘導路" loading="lazy"></iframe>
   </div>
 </div>
 

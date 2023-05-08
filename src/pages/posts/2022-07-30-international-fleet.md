@@ -74,13 +74,13 @@ NH13 便として羽田より到着する瞬間を捕捉しました。
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/NFc92Jv_LkU?autoplay=1&mute=1" class="player" title="羽田の離陸動画" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/NFc92Jv_LkU" class="player" title="羽田の離陸動画" loading="lazy"></iframe>
   </div>
 </div>
 
 <div class="wrapper">
   <div class="container">
-    <iframe src="https://www.youtube.com/embed/SNhFOBrNpaE?autoplay=1&mute=1" class="player" title="石垣の離陸動画" loading="lazy"></iframe>
+    <iframe src="https://www.youtube.com/embed/SNhFOBrNpaE" class="player" title="石垣の離陸動画" loading="lazy"></iframe>
   </div>
 </div>
 
