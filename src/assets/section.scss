@@ -1,20 +1,18 @@
 .section {
   margin: 8px 0;
-  background: rgba(232, 242, 255, 100%);
   display: flex;
   align-items: flex-start;
   justify-content: space-around;
-  @media (max-width: 600px) {
+  @media (min-width: 768px) {
     flex-direction: column;
   }
 }
 
-.main {
+.article {
   padding: 0 8px;
-  width: 100%;
-  background: #fff;
-  @media (max-width: 600px) {
+  margin: 0;
+  width: calc(100% - 16px);
+  @media (min-width: 768px) {
     padding: 0;
-    width: 100%;
   }
 }
