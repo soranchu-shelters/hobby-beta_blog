@@ -45,17 +45,19 @@ const { lang, title, description, publishDate, author, heroImage, permalink, alt
   </head>
 
   <body>
-    <div class="header">
-      <BlogHeader {title} {description} />
-    </div>
-    <div class="section">
-      <BlogPost {title} {author} {heroImage} {publishDate} {alt}>
-        <div class="article">
-          <div class="post-detail">
-            <slot />
+    <main>
+      <div class="header">
+        <BlogHeader {title} {description} />
+      </div>
+      <div class="section">
+        <BlogPost {title} {author} {heroImage} {publishDate} {alt}>
+          <div class="article">
+            <div class="post-detail">
+              <slot />
+            </div>
           </div>
-        </div>
-      </BlogPost>
-    </div>
+        </BlogPost>
+      </div>
+    </main>
   </body>
 </html>

@@ -33,8 +33,11 @@
     }
 
     img {
-      width: 80%;
+      width: 60%;
       margin: 0 10%;
+      @media (min-width: 768px) {
+        width: 80%;
+      }
     }
 
     iframe {
