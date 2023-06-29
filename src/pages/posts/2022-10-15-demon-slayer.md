@@ -3,7 +3,7 @@ layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
 authorTwitter: jiyuujinlab
 category: aviation
-title: Damon Slayer from ITM/RJOO, FUK/RJFF
+title: Damon Slayer to FUK from Osaka/ITM
 type: post
 date: 2022-10-15
 tags:
@@ -79,7 +79,7 @@ JAL の B777 は、気付けば今年 4 度の搭乗を果たしています。
 
 機内でまったり過ごす瞬間は悪くありません。
 
-![](/assets/img/Premium_FUKHND.jpg)
+![](/assets/img/20221015_FUKHND.jpg)
 
 伊丹便では、決して上がることのない 40,000 フィートまで、上昇を果たしました。
 

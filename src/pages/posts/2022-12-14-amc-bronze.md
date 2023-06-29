@@ -3,7 +3,7 @@ layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
 authorTwitter: jiyuujinlab
 category: aviation
-title: Achievement AMC Bronze
+title: Achievement AMC (Bronze)
 type: post
 date: 2022-12-14
 tags:
@@ -58,4 +58,4 @@ ANA 便だけで 17 便に搭乗したようです。
 
 ### 福岡 (FUK) - 羽田 (HND)
 
-![](/assets/img/Premium_FUKHND.jpg)
+![](/assets/img/20221015_FUKHND.jpg)
