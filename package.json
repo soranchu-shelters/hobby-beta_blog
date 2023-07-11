@@ -18,7 +18,7 @@
     "@astrojs/image": "1.0.0-beta.2",
     "@astrojs/svelte": "2.2.0",
     "astro": "2.8.0",
-    "astro-seo": "0.7.4",
+    "astro-seo": "0.7.5",
     "feed": "4.2.2",
     "fs-extra": "10.1.0",
     "prettier": "2.8.8",
