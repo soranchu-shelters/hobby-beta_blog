@@ -27,7 +27,7 @@
     "remark-parse": "10.0.2",
     "remark-stringify": "10.0.3",
     "sass": "1.63.6",
-    "sharp": "0.32.2",
+    "sharp": "0.32.3",
     "textlint": "12.6.1",
     "textlint-rule-ja-no-space-around-parentheses": "2.2.0",
     "textlint-rule-ja-no-space-between-full-width": "2.2.0",
