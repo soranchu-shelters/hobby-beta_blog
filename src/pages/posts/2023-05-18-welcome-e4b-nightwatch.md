@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
-authorTwitter: jiyuujinlab
+authorInstagram: soranchu_liz
 category: aviation
 title: Welcome to Japan, E-4B (Nightwatch)
 type: post
