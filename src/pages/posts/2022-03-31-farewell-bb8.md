@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
-authorTwitter: jiyuujinlab
+authorInstagram: soranchu_liz
 category: aviation
 title: The LAST BB-8
 type: post

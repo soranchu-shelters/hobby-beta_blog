@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
-authorTwitter: jiyuujinlab
+authorInstagram: soranchu_liz
 category: aviation
 title: Damon Slayer to FUK from Osaka/ITM
 type: post

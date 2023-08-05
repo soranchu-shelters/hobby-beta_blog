@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
-authorTwitter: jiyuujinlab
+authorInstagram: soranchu_liz
 category: aviation
 title: A Happy New Year 2023
 type: post
