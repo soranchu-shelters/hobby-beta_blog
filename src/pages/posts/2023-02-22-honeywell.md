@@ -21,23 +21,23 @@ image: https://i.imgur.com/DYs6Bmv.jpg
 
 当初は通称 ANA ブロックに阻まれます。
 
-![](/assets/img/JA795A.jpg)
+![](/assets/img/20230222/JA795A.JPG)
 
-![](/assets/img/N757HW_1.jpg)
+![](/assets/img/20230222/N757HW_1.JPG)
 
 しかしながら早くも、翌 16 日にはその呪縛より解かれます。
 
-![](/assets/img/N757HW_2.jpg)
+![](/assets/img/20230222/N757HW_2.JPG)
 
 ソウルへ飛んだ日には、てっきり戻ってこないものと考えたり (その後、羽田へ U ターン)
 
-![](/assets/img/N757HW_3.jpg)
+![](/assets/img/20230222/N757HW_3.JPG)
 
 暴風の吹き荒れる日もありました。
 
 そこにフレイターは違和感しかありません。
 
-![](/assets/img/N706GT.jpg)
+![](/assets/img/20230222/N706GT.JPG)
 
 結果として 21 日に離日しました。
 

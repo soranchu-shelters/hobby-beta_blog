@@ -15,7 +15,7 @@ image: https://i.imgur.com/ZGHTIfF.jpg
 
 彼 (BB-8) の最期を見届けます。
 
-![](/assets/img/JA789A_1.jpg)
+![](/assets/img/20220331/JA789A_1.JPG)
 
 今回 NH28 便の乗り継ぎを上手く活かしており、自身の周辺にも似たような旅程を組んだ方がいらっしゃいました。
 
@@ -42,11 +42,11 @@ image: https://i.imgur.com/ZGHTIfF.jpg
 
 ロコン (JA607A) 、スターウォーズ 3 機、政府専用機 2 機の共演。
 
-![](/assets/img/JA607A_1.jpg)
+![](/assets/img/20220331/JA607A_1.JPG)
 
 特にロコンとの接近戦は、この子のデビュー以来初めて。
 
-![](/assets/img/JA607A_2.jpg)
+![](/assets/img/20220331/JA607A_2.JPG)
 
 V 地区にて (昼)
 
@@ -56,11 +56,11 @@ V 地区にて (昼)
 
 しれっとその裏には JA743A も駐機しています。
 
-![](/assets/img/JA789A_1.jpg)
+![](/assets/img/20220331/JA789A_1.JPG)
 
 お隣 V2 に JA873A が駐機します。
 
-![](/assets/img/JA789A_2.jpg)
+![](/assets/img/20220331/JA789A_2.JPG)
 
 復路。
 
@@ -74,11 +74,11 @@ V 地区にて (昼)
 
 搭乗を暫し待つ、このひとこまをパチり。
 
-![](/assets/img/JA789A_2.jpg)
+![](/assets/img/20220331/JA789A_2.JPG)
 
 4F フードコートの人影がその時の状況を物語っています。
 
-![](/assets/img/JA789A_3.jpg)
+![](/assets/img/20220331/JA789A_3.JPG)
 
 V 地区にて (晩)
 
@@ -88,11 +88,11 @@ V 地区にて (晩)
 
 単純に傘をさすのが面倒臭いというのもあるのでしょう。
 
-![](/assets/img/JA789A_4.jpg)
+![](/assets/img/20220331/JA789A_4.JPG)
 
 近くで見る GE90-115b は存在感抜群ですね。
 
-![](/assets/img/JA789A_5.jpg)
+![](/assets/img/20220331/JA789A_5.JPG)
 
 ### あとがき
 
