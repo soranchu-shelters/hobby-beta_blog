@@ -16,7 +16,7 @@ image: https://i.imgur.com/G2QWe8b.jpg
 
 およそ 1 年ぶりの撮影になります。
 
-![](/assets/img/JA06XJ_3.jpg)
+![](/assets/img/20210904/JA06XJ_3.JPG)
 
 今回の主役は [JA06XJ](https://www.flightradar24.com/data/aircraft/ja06xj) です。
 
@@ -30,15 +30,15 @@ image: https://i.imgur.com/G2QWe8b.jpg
 
 この地で A350XWB を撮影するのは初めて。
 
-![](/assets/img/JA06XJ_1.jpg)
+![](/assets/img/20210904/JA06XJ_1.JPG)
 
-![](/assets/img/JA06XJ_2.jpg)
+![](/assets/img/20210904/JA06XJ_2.JPG)
 
-![](/assets/img/JA06XJ_3.jpg)
+![](/assets/img/20210904/JA06XJ_3.JPG)
 
-![](/assets/img/JA06XJ_4.jpg)
+![](/assets/img/20210904/JA06XJ_4.JPG)
 
-![](/assets/img/JA06XJ_5.jpg)
+![](/assets/img/20210904/JA06XJ_5.JPG)
 
 色が褪せていると言えばそれまででもありません。
 
@@ -46,15 +46,15 @@ image: https://i.imgur.com/G2QWe8b.jpg
 
 そして、見送りはやはり [この地](https://www.google.co.jp/maps/place/34%C2%B047'26.3%22N+135%C2%B025'34.2%22E/@34.7906454,135.4239763,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d34.7906406!4d135.4261646?hl=ja) 猪名川にて。
 
-![](/assets/img/JA06XJ_6.jpg)
+![](/assets/img/20210904/JA06XJ_6.JPG)
 
 夏っぽい雲をバックにテイクオフ。
 
-![](/assets/img/JA06XJ_7.jpg)
+![](/assets/img/20210904/JA06XJ_7.JPG)
 
 背景の青が何より嬉しい。
 
-![](/assets/img/JA06XJ_8.jpg)
+![](/assets/img/20210904/JA06XJ_8.JPG)
 
 そして最後に、自転車で移動しているとはいえ肌が焼ける程度の暑さ。
 

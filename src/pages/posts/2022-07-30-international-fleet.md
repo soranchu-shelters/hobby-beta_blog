@@ -22,23 +22,23 @@ image: https://i.imgur.com/IXjnBx2.jpg
 
 NH13 便として羽田より到着する瞬間を捕捉しました。
 
-![](/assets/img/JA621A_1.jpg)
+![](/assets/img/20220730/JA621A_1.JPG)
 
 お鼻のキズは勲章の証。
 
-![](/assets/img/JA621A_2.jpg)
+![](/assets/img/20220730/JA621A_2.JPG)
 
 空前の好環境である、伊丹 13 番搭乗口にスポットインしました。
 
 なお、奇しくも ANA ラウンジすぐ目の前、順光にて撮影できる好環境でした。
 
-![](/assets/img/JA621A_3.jpg)
+![](/assets/img/20220730/JA621A_3.JPG)
 
 そして、羽田へ到着後も、国際線機材のフライトは続きます。
 
 1 月の実質的な「初日の出フライト」以来の 77E 搭乗となりました。
 
-![](/assets/img/JA703J.jpg)
+![](/assets/img/20220730/JA703J.JPG)
 
 なお、いずれのフライトもレジかぶりはありませんでした。
 
@@ -58,15 +58,15 @@ NH13 便として羽田より到着する瞬間を捕捉しました。
 
 空前の好環境、石垣では着陸とその後のスポットインを捕捉します。
 
-![](/assets/img/JA710J_1.jpg)
+![](/assets/img/20220730/JA710J_1.JPG)
 
-![](/assets/img/JA710J_2.jpg)
+![](/assets/img/20220730/JA710J_2.JPG)
 
-![](/assets/img/JA710J_3.jpg)
+![](/assets/img/20220730/JA710J_3.JPG)
 
 カラ岳を目の前に、順光で撮影可能な好環境となりました。
 
-![](/assets/img/JA710J_4.jpg)
+![](/assets/img/20220730/JA710J_4.JPG)
 
 注: 一部補正済。
 
@@ -98,10 +98,10 @@ NH13 便として羽田より到着する瞬間を捕捉しました。
 
 石垣の「サンゴ」を臨みます。
 
-![](/assets/img/JA710J_5.jpg)
+![](/assets/img/20220730/JA710J_5.JPG)
 
 ### JA702J の機窓
 
 飯田 (長野) の夕焼けを臨みます。
 
-![](/assets/img/JA702J_3.jpg)
+![](/assets/img/20220730/JA702J.JPG)

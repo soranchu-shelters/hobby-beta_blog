@@ -26,13 +26,13 @@ image: https://i.imgur.com/DNdNAkB.jpg
 
 まさか 10 万人近くが来場するイベントに、横田基地への着陸を強行突破するとは。
 
-![](/assets/img/428000_1.jpg)
+![](/assets/img/20220522/USAirForce_428000_1.JPG)
 
 帰りは「ひねり」を狙います。
 
 翌 25 日まで待つこともなく、大統領はそそくさとお帰りです。
 
-![](/assets/img/428000_2.jpg)
+![](/assets/img/20220522/USAirForce_428000_2.JPG)
 
 また何処かしら、逢えることを期待して。
 
@@ -45,7 +45,7 @@ image: https://i.imgur.com/DNdNAkB.jpg
 
 こちらは遅ればせながらその日の昼、最低限転がりを捕捉させていただいた。
 
-![](/assets/img/IndiaAirForce.jpg)
+![](/assets/img/20220522/IndiaAirForce.JPG)
 
 続いて 23 日の夜にやってきたアルバニージー新首相。
 
@@ -53,6 +53,6 @@ image: https://i.imgur.com/DNdNAkB.jpg
 
 実際のところ、どちらに新首相が搭乗されていたかは不明。
 
-![](/assets/img/AustraliaAirForce.jpg)
+![](/assets/img/20220522/AustraliaAirForce.JPG)
 
 とはいえこちらも遅ればせながら、離日のタイミングに最低限捕捉させていただいた。

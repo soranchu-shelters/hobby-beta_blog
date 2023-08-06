@@ -24,7 +24,7 @@ image: https://i.imgur.com/PmXbtjL.jpg
 
 JAL SKY SUITE Ⅲ (77E) で行くフライト。
 
-![](/assets/img/JA701J_2.jpg)
+![](/assets/img/20220101/JA701J_2.JPG)
 
 ほのかに染まる空は美しい。
 
@@ -46,7 +46,7 @@ JAL SKY SUITE Ⅲ (77E) で行くフライト。
 
 一時太陽の差し込む方向と並行して上昇する区間がありました。
 
-![](/assets/img/JA701J_3.jpg)
+![](/assets/img/20220101/JA701J_3.JPG)
 
 GE90-94B の燃ゆるが如し。
 
@@ -54,7 +54,7 @@ GE90-94B の燃ゆるが如し。
 
 こちらは取り急ぎ、現像させていただきます。
 
-![](/assets/img/NikonD7500.jpg)
+![](/assets/img/NikonD7500.JPG)
 
 ファインダーをこうやって晒すのも、珍しいでしょうか。
 
@@ -62,13 +62,13 @@ GE90-94B の燃ゆるが如し。
 
 対角線の上に差し込む日を感じます。
 
-![](/assets/img/JA701J_4.jpg)
+![](/assets/img/20220101/JA701J_4.JPG)
 
 針路を西へ変更。
 
 初めてこの場で顔を覗かせます。
 
-![](/assets/img/JA701J_5.jpg)
+![](/assets/img/20220101/JA701J_5.JPG)
 
 左手より日が差し込みます。
 
@@ -77,7 +77,7 @@ GE90-94B の燃ゆるが如し。
 
 南アルプス (富士山の北) 周辺を西進。
 
-![](/assets/img/Fuji2022.jpg)
+![](/assets/img/Sunrise2022.JPG)
 
 機内はシャッター音に包まれます。
 
@@ -87,11 +87,11 @@ GE90-94B の燃ゆるが如し。
 
 まず、滑走路と離れている印象は全く (といっていいくらい) ありません。
 
-![](/assets/img/JA701J_1.jpg)
+![](/assets/img/20220101/JA701J_1.JPG)
 
 4F に大きな広場がある。
 
-![](/assets/img/FUK_1.jpg)
+![](/assets/img/FUK_1.JPG)
 
 機体への目線が近いのも魅力的です。
 
@@ -99,7 +99,7 @@ GE90-94B の燃ゆるが如し。
 
 人の好みにもよります。
 
-![](/assets/img/FUK_2.jpg)
+![](/assets/img/FUK_2.JPG)
 
 なお、こちらのデッキは午前順光です。
 
@@ -133,4 +133,4 @@ GE90-94B の燃ゆるが如し。
   </div>
 </div>
 
-![](/assets/img/JA52AN.jpg)
+![](/assets/img/20220101/JA52AN.JPG)
