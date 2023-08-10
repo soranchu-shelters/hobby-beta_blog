@@ -26,25 +26,23 @@ image: https://i.imgur.com/px3jpIV.jpg
 
 ANA 便だけで 17 便に搭乗したようです。
 
-| #          | Departure | Arrival | Boarding Type |
-| :--------- | :-------- | :------ | :------------ |
-| 2022/01/01 | FUK       | ITM     | Boeing787     |
-| 2022/03/31 | ITM       | HND     | Boeing787     |
-| 2022/03/31 | HND       | CTS     | Boeing777     |
-| 2022/03/31 | CTS       | HND     | Boeing777     |
-| 2022/04/01 | HND       | ITM     | Boeing787     |
-| 2022/05/21 | ITM       | HND     | Boeing787     |
-| 2022/05/25 | HND       | ITM     | Boeing767     |
-| 2022/07/28 | ITM       | HND     | Boeing767     |
-| 2022/07/31 | FUK       | ITM     | Boeing787     |
-| 2022/10/12 | ITM       | HND     | Boeing777     |
-| 2022/10/13 | HND       | ITM     | Boeing767     |
-| 2022/10/15 | ITM       | FUK     | Boeing737     |
-| 2022/10/15 | FUK       | HND     | Boeing777     |
-| 2022/10/19 | HND       | ITM     | Boeing777     |
-| 2022/11/13 | ITM       | HND     | Boeing777     |
-| 2022/11/19 | HND       | ITM     | Boeing777     |
-| 2022/12/14 | ITM       | HND     | Boeing787     |
+- 2022/01/01 FUK - ITM (Boeing787)
+- 2022/03/31 ITM - HND (Boeing787)
+- 2022/03/31 HND - CTS (Boeing777)
+- 2022/03/31 CTS - HND (Boeing777)
+- 2022/04/01 HND - ITM (Boeing787)
+- 2022/05/21 ITM - HND (Boeing787)
+- 2022/05/25 HND - ITM (Boeing767)
+- 2022/07/28 ITM - HND (Boeing767)
+- 2022/07/31 FUK - ITM (Boeing787)
+- 2022/10/12 ITM - HND (Boeing777)
+- 2022/10/13 HND - ITM (Boeing767)
+- 2022/10/15 ITM - FUK (Boeing737)
+- 2022/10/15 FUK - HND (Boeing777)
+- 2022/10/19 HND - ITM (Boeing777)
+- 2022/11/13 ITM - HND (Boeing777)
+- 2022/11/19 HND - ITM (Boeing777)
+- 2022/12/14 ITM -HND (Boeing787)
 
 来年も後半特に、搭乗できそうかしら。
 
