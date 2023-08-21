@@ -11,7 +11,7 @@ tags:
   - Boeing777
   - Boeing
   - ANA
-image: https://i.imgur.com/uoBwOye.jpg
+image: https://i.imgur.com/cnn1Pz3.jpg
 ---
 
 猛暑厳しい大阪の地 (下河原エアフロントオアシス) より、こんにちは。
