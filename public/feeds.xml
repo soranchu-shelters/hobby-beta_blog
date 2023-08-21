@@ -4,7 +4,7 @@
         <title>そらんちゅぐらむ</title>
         <link>undefined</link>
         <description>技術ブログと別のブログとして、一眼レフ (Nikon) を使った「お写歩」活動を記録しています。</description>
-        <lastBuildDate>Thu, 10 Aug 2023 22:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 10:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -17,11 +17,11 @@
             <description><![CDATA[See you, the Gold Craneについて書かせていただきました。]]></description>
         </item>
         <item>
-            <title><![CDATA[The LAST BB-8]]></title>
-            <link>https://aviation.nekohack.me/posts/2022-03-31-farewell-bb8</link>
-            <guid>https://aviation.nekohack.me/posts/2022-03-31-farewell-bb8</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[The LAST BB-8について書かせていただきました。]]></description>
+            <title><![CDATA[Damon Slayer to FUK from Osaka/ITM]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-10-15-demon-slayer</link>
+            <guid>https://aviation.nekohack.me/posts/2022-10-15-demon-slayer</guid>
+            <pubDate>Sat, 15 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Damon Slayer to FUK from Osaka/ITMについて書かせていただきました。]]></description>
         </item>
         <item>
             <title><![CDATA[Farewell JA709J]]></title>
@@ -29,6 +29,20 @@
             <guid>https://aviation.nekohack.me/posts/2022-11-08-farewell-ja709j</guid>
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Farewell JA709Jについて書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Achievement AMC (Bronze)]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-12-14-amc-bronze</link>
+            <guid>https://aviation.nekohack.me/posts/2022-12-14-amc-bronze</guid>
+            <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Achievement AMC (Bronze)について書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The LAST BB-8]]></title>
+            <link>https://aviation.nekohack.me/posts/2022-03-31-farewell-bb8</link>
+            <guid>https://aviation.nekohack.me/posts/2022-03-31-farewell-bb8</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[The LAST BB-8について書かせていただきました。]]></description>
         </item>
         <item>
             <title><![CDATA[A Happy New Year 2022]]></title>
@@ -45,25 +59,25 @@
             <description><![CDATA[Welcome to Japan, Joe Biden (QUAD)について書かせていただきました。]]></description>
         </item>
         <item>
+            <title><![CDATA[A Happy New Year 2023]]></title>
+            <link>https://aviation.nekohack.me/posts/2023-01-01-a-happy-new-year</link>
+            <guid>https://aviation.nekohack.me/posts/2023-01-01-a-happy-new-year</guid>
+            <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[A Happy New Year 2023について書かせていただきました。]]></description>
+        </item>
+    </channel>
+</rss>      <title><![CDATA[Ambition in 2023]]></title>
+            <link>https://aviation.nekohack.me/posts/2023-01-04-ambition-in-2023</link>
+            <guid>https://aviation.nekohack.me/posts/2023-01-04-ambition-in-2023</guid>
+            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ambition in 2023について書かせていただきました。]]></description>
+        </item>
+        <item>
             <title><![CDATA[JAL's meal (Osaka/ITM - Tokyo/HND)]]></title>
             <link>https://aviation.nekohack.me/posts/2022-12-31-jal-meal</link>
             <guid>https://aviation.nekohack.me/posts/2022-12-31-jal-meal</guid>
             <pubDate>Sat, 31 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[JAL's meal (Osaka/ITM - Tokyo/HND)について書かせていただきました。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Damon Slayer to FUK from Osaka/ITM]]></title>
-            <link>https://aviation.nekohack.me/posts/2022-10-15-demon-slayer</link>
-            <guid>https://aviation.nekohack.me/posts/2022-10-15-demon-slayer</guid>
-            <pubDate>Sat, 15 Oct 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Damon Slayer to FUK from Osaka/ITMについて書かせていただきました。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Achievement AMC (Bronze)]]></title>
-            <link>https://aviation.nekohack.me/posts/2022-12-14-amc-bronze</link>
-            <guid>https://aviation.nekohack.me/posts/2022-12-14-amc-bronze</guid>
-            <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Achievement AMC (Bronze)について書かせていただきました。]]></description>
         </item>
         <item>
             <title><![CDATA[Domestic Flights on International Fleet]]></title>
@@ -73,18 +87,25 @@
             <description><![CDATA[Domestic Flights on International Fleetについて書かせていただきました。]]></description>
         </item>
         <item>
-            <title><![CDATA[Ambition in 2023]]></title>
-            <link>https://aviation.nekohack.me/posts/2023-01-04-ambition-in-2023</link>
-            <guid>https://aviation.nekohack.me/posts/2023-01-04-ambition-in-2023</guid>
-            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Ambition in 2023について書かせていただきました。]]></description>
-        </item>
-        <item>
             <title><![CDATA[Honeywell in Tokyo]]></title>
             <link>https://aviation.nekohack.me/posts/2023-02-22-honeywell</link>
             <guid>https://aviation.nekohack.me/posts/2023-02-22-honeywell</guid>
             <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Honeywell in Tokyoについて書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ANA's meal (OKA - Tokyo/HND)]]></title>
+            <link>https://aviation.nekohack.me/posts/2023-05-23-ana-meal</link>
+            <guid>https://aviation.nekohack.me/posts/2023-05-23-ana-meal</guid>
+            <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[ANA's meal (OKA - Tokyo/HND)について書かせていただきました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Japan, E-4B (Nightwatch)]]></title>
+            <link>https://aviation.nekohack.me/posts/2023-05-18-welcome-e4b-nightwatch</link>
+            <guid>https://aviation.nekohack.me/posts/2023-05-18-welcome-e4b-nightwatch</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to Japan, E-4B (Nightwatch)について書かせていただきました。]]></description>
         </item>
         <item>
             <title><![CDATA[JA703J in Shimojishima]]></title>
@@ -94,25 +115,11 @@
             <description><![CDATA[JA703J in Shimojishimaについて書かせていただきました。]]></description>
         </item>
         <item>
-            <title><![CDATA[A Happy New Year 2023]]></title>
-            <link>https://aviation.nekohack.me/posts/2023-01-01-a-happy-new-year</link>
-            <guid>https://aviation.nekohack.me/posts/2023-01-01-a-happy-new-year</guid>
-            <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[A Happy New Year 2023について書かせていただきました。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Japan, E-4B (Nightwatch)]]></title>
-            <link>https://aviation.nekohack.me/posts/2023-05-18-welcome-e4b-nightwatch</link>
-            <guid>https://aviation.nekohack.me/posts/2023-05-18-welcome-e4b-nightwatch</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to Japan, E-4B (Nightwatch)について書かせていただきました。]]></description>
-        </item>
-    </channel>
-</rss>      <title><![CDATA[ANA's meal (OKA - Tokyo/HND)]]></title>
-            <link>https://aviation.nekohack.me/posts/2023-05-23-ana-meal</link>
-            <guid>https://aviation.nekohack.me/posts/2023-05-23-ana-meal</guid>
-            <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[ANA's meal (OKA - Tokyo/HND)について書かせていただきました。]]></description>
+            <title><![CDATA[Fireworks]]></title>
+            <link>https://aviation.nekohack.me/posts/2023-08-19-fireworks</link>
+            <guid>https://aviation.nekohack.me/posts/2023-08-19-fireworks</guid>
+            <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Fireworksについて書かせていただきました。]]></description>
         </item>
         <item>
             <title><![CDATA[Fireworks]]></title>
