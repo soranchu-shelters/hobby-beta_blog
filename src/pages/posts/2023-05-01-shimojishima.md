@@ -5,7 +5,7 @@ authorInstagram: soranchu_liz
 category: aviation
 title: JA703J in Shimojishima
 type: post
-date: 2023-05-07
+date: 2023-05-01
 tags:
   - Boeing777
   - Boeing
