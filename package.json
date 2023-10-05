@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@astrojs/image": "1.0.0-beta.2",
-    "@astrojs/svelte": "2.2.0",
+    "@astrojs/svelte": "4.0.3",
     "astro": "2.10.15",
     "astro-seo": "0.8.0",
     "feed": "4.2.2",
