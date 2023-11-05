@@ -45,11 +45,11 @@ const { lang, title, description, publishDate, author, heroImage, permalink, alt
   </head>
 
   <body>
+    <div class="header">
+      <BlogHeader {title} {description} />
+    </div>
     <main>
-      <div class="header">
-        <BlogHeader {title} {description} />
-      </div>
-      <div class="section">
+      <section>
         <BlogPost {title} {author} {heroImage} {publishDate} {alt}>
           <div class="article">
             <div class="post-detail">
@@ -57,7 +57,7 @@ const { lang, title, description, publishDate, author, heroImage, permalink, alt
             </div>
           </div>
         </BlogPost>
-      </div>
+      </section>
     </main>
   </body>
 </html>
