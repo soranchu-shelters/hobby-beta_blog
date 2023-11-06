@@ -12,22 +12,20 @@
     "textlint:fix": "textlint ./src/pages/posts/** --fix"
   },
   "dependencies": {
-    "svelte": "3.59.2"
+    "svelte": "4.2.2"
   },
   "devDependencies": {
-    "@astrojs/image": "1.0.0-beta.2",
-    "@astrojs/svelte": "2.2.0",
-    "astro": "2.10.15",
+    "@astrojs/svelte": "4.0.3",
+    "astro": "3.2.3",
     "astro-seo": "0.8.0",
     "feed": "4.2.2",
     "fs-extra": "10.1.0",
     "prettier": "2.8.8",
-    "prettier-plugin-astro": "0.12.0",
+    "prettier-plugin-astro": "0.12.1",
     "remark-frontmatter": "4.0.1",
     "remark-parse": "10.0.2",
     "remark-stringify": "10.0.3",
     "sass": "1.69.4",
-    "sharp": "0.32.6",
     "textlint": "12.6.1",
     "textlint-rule-ja-no-space-around-parentheses": "2.2.0",
     "textlint-rule-ja-no-space-between-full-width": "2.2.0",
