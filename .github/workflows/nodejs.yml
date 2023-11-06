@@ -14,7 +14,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [16.x]
+        node-version: [18.x]
 
     steps:
       - uses: actions/checkout@v2
@@ -22,12 +22,12 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16.x'
+          node-version: '18.x'
 
       - name: Cache node modules
         uses: actions/cache@v2
         env:
-          cache-name: _cache_npm_node16
+          cache-name: _cache_npm_node18
         with:
           path: ~/.npm
           key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
