@@ -3,11 +3,12 @@ layout: '../../layouts/BlogPost.astro'
 author: jiyuujin
 authorInstagram: soranchu_liz
 category: aviation
-title: Vue Fes でスタッフ業、然りカメラマン業として参画
+title: カメラマン業、束の間の休息
 type: post
-date: 2023-10-28
+date: 2023-10-27
 tags:
-  - VueFes
+  - Nakano
+  - Koen-ji
 image: https://i.imgur.com/F0EdTe4.jpg
 ---
 
@@ -22,15 +23,15 @@ image: https://i.imgur.com/F0EdTe4.jpg
 
 ※ 現在、駅の改装工事が行われ、深夜 3 時に一瞬停電されます。
 
-![](/assets/img/20231028/Koen-ji_1.JPG)
+![](/assets/img/20231027/Koen-ji_1.JPG)
 
 高円寺駅北口「レイク」で、カメラのピントを調整 (笑)
 
-![](/assets/img/20231028/Koen-ji_5.JPG)
+![](/assets/img/20231027/Koen-ji_5.JPG)
 
 夜の「レイク」も、調整し甲斐があります (笑)
 
-![](/assets/img/20231028/Koen-ji_6.JPG)
+![](/assets/img/20231027/Koen-ji_6.JPG)
 
 ### ホテル周辺の風景
 
@@ -38,12 +39,12 @@ image: https://i.imgur.com/F0EdTe4.jpg
 
 さらに真東へ目を向け、東京スカイツリーもくっきり。
 
-![](/assets/img/20231028/Koen-ji_2.JPG)
+![](/assets/img/20231027/Koen-ji_2.JPG)
 
 JR 中央線。
 
-![](/assets/img/20231028/Koen-ji_3.JPG)
+![](/assets/img/20231027/Koen-ji_3.JPG)
 
 JR 中央・総武線、諸々。
 
-![](/assets/img/20231028/Koen-ji_4.JPG)
+![](/assets/img/20231027/Koen-ji_4.JPG)
