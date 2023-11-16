@@ -15,7 +15,7 @@
     "svelte": "4.2.3"
   },
   "devDependencies": {
-    "@astrojs/svelte": "4.0.3",
+    "@astrojs/svelte": "4.0.4",
     "astro": "3.5.4",
     "astro-seo": "0.8.0",
     "feed": "4.2.2",
