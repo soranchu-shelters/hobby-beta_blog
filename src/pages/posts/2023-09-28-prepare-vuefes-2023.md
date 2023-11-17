@@ -8,7 +8,7 @@ type: post
 date: 2023-09-28
 tags:
   - VueFes
-image: https://i.imgur.com/4KgobfI.jpg
+image: https://i.imgur.com/nHaueWt.jpg
 ---
 
 4 年ぶりにとあるイベントのスタッフ業に向け、度々上京したのでその記録をば。
