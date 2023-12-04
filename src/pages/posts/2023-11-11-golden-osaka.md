@@ -25,7 +25,7 @@ image: https://i.imgur.com/jHdZQCv.jpg
 
 ![](/assets/img/20231111/JA716A_2.JPG)
 
-大阪 市街地の風景はこちらをご覧 🎵
+🎵 大阪市街地の風景はこちらをご覧。
 
 <div class="wrapper">
   <div class="container">

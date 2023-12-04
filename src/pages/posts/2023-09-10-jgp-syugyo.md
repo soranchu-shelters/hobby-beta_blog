@@ -87,7 +87,7 @@ image: https://i.imgur.com/ZrY2t3h.jpg
 
 ![](/assets/img/20230910/JA703J_9.JPG)
 
-最後の直線は動画をご確認 🎵
+🎵 最後の直線は動画をご確認。
 
 <div class="wrapper">
   <div class="container">

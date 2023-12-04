@@ -39,7 +39,9 @@ image: https://i.imgur.com/STmp8mX.jpg
 
 到着して直に、バルブ環境を整えます。
 
-とここで、千里川直下ならでは、のサウンドはこちらをご覧 🎵
+と、ここで。
+
+🎵 千里川直下ならでは、のサウンドはこちらをご覧。
 
 <div class="wrapper">
   <div class="container">

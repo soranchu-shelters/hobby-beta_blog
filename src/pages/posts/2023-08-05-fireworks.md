@@ -30,7 +30,7 @@ image: https://i.imgur.com/cnn1Pz3.jpg
 
 ![](/assets/img/20230805/Osaka_3.JPG)
 
-PW4090 のサウンドはこちらをご覧 🎵
+🎵 PW4090 のサウンドはこちらをご覧。
 
 <div class="wrapper">
   <div class="container">
