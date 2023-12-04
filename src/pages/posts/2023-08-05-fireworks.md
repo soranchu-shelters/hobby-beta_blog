@@ -58,14 +58,6 @@ image: https://i.imgur.com/cnn1Pz3.jpg
 - 比較的に着陸機のタキシングがスムーズだった
 - (個人的に) 久しぶりの花火撮影と、やさしい目で見てねと
 
-その 1。
-
-![](/assets/img/20230805/Osaka_7.JPG)
-
-その 2。
-
-![](/assets/img/20230805/Osaka_8.JPG)
-
-その 3。
+フィナーレのみ、現像っと。
 
 ![](/assets/img/20230805/Osaka_9.JPG)

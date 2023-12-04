@@ -35,7 +35,7 @@ image: https://i.imgur.com/STmp8mX.jpg
 
 ![](/assets/img/20230819/JA745A.JPG)
 
-少々、逆光が辛い時間帯になってきました。
+少々、逆光の辛い、撮影しづらい時間帯となってきました。
 
 到着して直に、バルブ環境を整えます。
 
@@ -63,15 +63,15 @@ image: https://i.imgur.com/STmp8mX.jpg
 - 比較的に離陸機が W2 へ入れば待ってくれた
 - (個人的に) 想定以上に小さく見えたので、ある程度のズームは必須
 
-その 1。
+仙台行 AirbusA321 (JA144A) の離陸待ち。
 
 ![](/assets/img/20230819/JA145A.JPG)
 
-その 2。
+鹿児島行 Enbrarer190 (JA244J) の離陸待ち。
 
 ![](/assets/img/20230819/JA245J.JPG)
 
-その 3。
+熊本行 Boeing737-8 (JA64AN) の離陸待ち。
 
 ![](/assets/img/20230819/JA65AN_2.JPG)
 

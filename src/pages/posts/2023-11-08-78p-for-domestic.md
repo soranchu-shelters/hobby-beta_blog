@@ -45,7 +45,7 @@ image: https://i.imgur.com/pRl0W3L.jpg
 
 表参道駅前南青山のマンションビル群。
 
-右端に NHK (?)
+右端には、渋谷にある NHK のビルでしょうか (?)
 
 ![](/assets/img/20231108/harajuku.JPG)
 
